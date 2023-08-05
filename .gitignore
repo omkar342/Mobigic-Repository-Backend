@@ -1,0 +1,14 @@
+# Node.js / Express / MERN Stack project gitignore
+
+# Ignore Node.js modules (installed via npm)
+/node_modules
+
+# Ignore generated files and build artifacts
+/build
+/dist
+
+# Ignore environment-specific configuration files
+.env
+
+# Ignore uploads folder contents (assuming uploaded files are stored in "uploads" folder)
+/uploads
